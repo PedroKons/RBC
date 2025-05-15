@@ -1,0 +1,51 @@
+Temperatura corporal,Fadiga,Tipo de tosse,Dor no corpo,Náusea/Vômito,Tipo de dor de cabeça,Idade,Perda de paladar/Olfato,Diagnóstico
+39,Intensa,Com Catarro,Leve,Não,Frontal,78,Não,Covid-19
+40,Intensa,Seca,Leve,Não,Generalizada,76,Não,Covid-19
+38,Moderada,Com Catarro,Forte,Não,Frontal,57,Sim,Covid-19
+40,Moderada,Seca,Leve,Sim,Generalizada,67,Sim,Covid-19
+38,Intensa,Com Catarro,Moderada,Sim,Frontal,77,Não,Dengue
+38,Leve,Seca,Forte,Sim,Generalizada,70,Sim,Covid-19
+39,Intensa,Seca,Forte,Sim,Nenhuma,74,Não,Dengue
+40,Moderada,Com Catarro,Leve,Sim,Frontal,37,Sim,Dengue
+39,Intensa,Com Catarro,Moderada,Não,Frontal,49,Sim,Covid-19
+37.5,Moderada,Com Catarro,Moderada,Sim,Generalizada,61,Sim,Dengue
+37.5,Intensa,Com Catarro,Leve,Não,Generalizada,53,Sim,Dengue
+39,Intensa,Com Catarro,Leve,Sim,Generalizada,68,Não,Dengue
+38,Leve,Com Catarro,Leve,Não,Nenhuma,63,Sim,Covid-19
+39,Moderada,Seca,Leve,Não,Frontal,33,Sim,Covid-19
+39,Moderada,Seca,Forte,Sim,Generalizada,31,Não,Dengue
+39,Intensa,Seca,Moderada,Não,Nenhuma,73,Não,Covid-19
+40,Moderada,Com Catarro,Forte,Sim,Nenhuma,43,Não,Dengue
+39,Leve,Seca,Moderada,Não,Nenhuma,54,Não,Dengue
+38,Moderada,Com Catarro,Moderada,Não,Generalizada,71,Sim,Dengue
+40,Intensa,Com Catarro,Leve,Sim,Nenhuma,29,Não,Covid-19
+39,Moderada,Com Catarro,Moderada,Não,Generalizada,56,Não,Covid-19
+39,Moderada,Seca,Moderada,Sim,Generalizada,55,Não,Dengue
+37.5,Intensa,Com Catarro,Forte,Não,Nenhuma,62,Sim,Covid-19
+39,Leve,Seca,Forte,Não,Frontal,69,Não,Covid-19
+40,Leve,Seca,Moderada,Sim,Nenhuma,55,Não,Dengue
+39,Moderada,Com Catarro,Leve,Não,Generalizada,32,Sim,Covid-19
+37.5,Leve,Seca,Leve,Sim,Generalizada,48,Não,Covid-19
+37.5,Leve,Seca,Forte,Sim,Nenhuma,26,Sim,Covid-19
+37.5,Moderada,Com Catarro,Leve,Não,Frontal,30,Não,Dengue
+40,Intensa,Com Catarro,Leve,Não,Frontal,46,Não,Dengue
+40,Moderada,Seca,Leve,Não,Generalizada,73,Sim,Covid-19
+40,Leve,Com Catarro,Forte,Não,Nenhuma,29,Sim,Covid-19
+37.5,Leve,Seca,Forte,Sim,Generalizada,27,Sim,Dengue
+38,Intensa,Com Catarro,Leve,Não,Generalizada,38,Não,Dengue
+40,Intensa,Seca,Leve,Não,Frontal,61,Não,Dengue
+39,Leve,Com Catarro,Moderada,Sim,Frontal,29,Não,Covid-19
+38,Moderada,Com Catarro,Moderada,Não,Frontal,79,Não,Dengue
+37.5,Leve,Seca,Leve,Sim,Generalizada,78,Sim,Covid-19
+39,Intensa,Com Catarro,Forte,Sim,Generalizada,50,Sim,Covid-19
+38,Leve,Seca,Moderada,Sim,Frontal,71,Sim,Dengue
+40,Leve,Com Catarro,Moderada,Sim,Generalizada,72,Sim,Dengue
+37.5,Leve,Seca,Leve,Não,Frontal,28,Sim,Dengue
+40,Leve,Seca,Leve,Não,Generalizada,60,Sim,Covid-19
+40,Leve,Seca,Moderada,Não,Generalizada,18,Não,Covid-19
+40,Intensa,Com Catarro,Forte,Sim,Frontal,21,Não,Dengue
+38,Leve,Com Catarro,Leve,Sim,Frontal,79,Não,Dengue
+37.5,Moderada,Seca,Leve,Não,Frontal,45,Não,Dengue
+37.5,Leve,Com Catarro,Forte,Sim,Generalizada,60,Não,Covid-19
+40,Intensa,Com Catarro,Leve,Sim,Frontal,26,Sim,Covid-19
+40,Moderada,Com Catarro,Moderada,Sim,Generalizada,20,Não,Dengue
