@@ -1,0 +1,52 @@
+Entrada 1 - Suspeita de Covid
+Temperatura: 39.5
+
+Fadiga: Intensa
+
+Tipo de Tosse: Seca
+
+Dor no Corpo: Moderada
+
+Náusea/Vômito: Não
+
+Tipo de Dor de Cabeça: Generalizada
+
+Idade: 45
+
+Perda de Paladar/Olfato: Sim
+
+
+Entrada 2 - Suspeita de Dengue
+Temperatura: 38.0
+
+Fadiga: Moderada
+
+Tipo de Tosse: Ausente
+
+Dor no Corpo: Forte
+
+Náusea/Vômito: Sim
+
+Tipo de Dor de Cabeça: Frontal
+
+Idade: 33
+
+Perda de Paladar/Olfato: Não
+
+Entrada 3 - Caso igual da base de dados Linha 17
+Temperatura: 39.0
+
+Fadiga: Leve
+
+Tipo de Tosse: Seca
+
+Dor no Corpo: Moderada
+
+Náusea/Vômito: Não
+
+Tipo de Dor de Cabeça: Nenhuma
+
+Idade: 54
+
+Perda de Paladar/Olfato: Não
+
