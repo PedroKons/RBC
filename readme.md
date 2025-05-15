@@ -37,6 +37,8 @@ pip install streamlit pandas numpy
 
 ## Como Executar
 
+LINK Demo : https://rbc-ia-pedro-kons.streamlit.app/
+
 1. Certifique-se de que o arquivo `database.csv` está presente no mesmo diretório do `app.py`
 2. Abra o terminal na pasta do projeto
 3. Execute o comando:
